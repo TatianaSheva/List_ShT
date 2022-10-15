@@ -12,8 +12,8 @@ public class Main {
         while (true) {
             System.out.println("Список возможных операций: ");
             System.out.println("1. Добавить продукт.");
-            System.out.println("1. Посмотреть список продуктов.");
-            System.out.println("1. Удалить продукт.");
+            System.out.println("2. Посмотреть список продуктов.");
+            System.out.println("3. Удалить продукт.");
 
             System.out.println("Выберите номер операции или введите `end`");
             Scanner scanner = new Scanner(System.in);
